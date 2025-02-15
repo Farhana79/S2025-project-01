@@ -7,9 +7,6 @@
  * The Pawn class provides additional functionality specific to the pawn piece in chess,
  * including the ability to perform a double jump, check if it can be promoted, and other
  * functionality related to its movement and properties.
- *
- * @author <Your Name>
- * @date 2025/02/12
  */
 
 
